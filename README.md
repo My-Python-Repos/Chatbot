@@ -3,5 +3,7 @@
  
  ## How to Use it
  Please follow the steps:
-  1 . Clone this repo
-  2. Use it as a temaplate to develop your own Chatbot
+ `
+                  1 . Clone this repo
+                  2. Use it as a temaplate to develop your own Chatbot
+`
