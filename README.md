@@ -6,4 +6,5 @@
  ```
                      1 . Clone this repo 
                      2. Use it as a temaplate to develop your own Chatbot
+                     3. With small Modification in ciode you can put your own database for answering. Currently we are implementing it with csv files.
 ```
